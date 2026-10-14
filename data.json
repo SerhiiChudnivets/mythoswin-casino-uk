@@ -1,11 +1,11 @@
 {
   "name": "mythoswin-casino.uk",
   "site_name": "Mythoswin Casino | Welcome Pack For UK 420% Up To £14,000",
-  "html_head": "\n<link rel=\"canonical\" href=\"https://mythoswin-casino.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Mythoswin Casino | Welcome Pack For UK 420% Up To £14,000\">\n<meta property=\"og:description\" content=\"Discover Mythoswin Casino: 5 bonus stages, live games, crypto payments and VIP rewards.\">\n<meta property=\"og:url\" content=\"https://mythoswin-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Mythoswin Casino\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"KKL37RsoygGsm-gKN4AxhVsGZZSfuM2hBW2FyVdsvAc\" />\n<link rel=\"canonical\" href=\"https://mythoswin-casino.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Mythoswin Casino | Welcome Pack For UK 420% Up To £14,000\">\n<meta property=\"og:description\" content=\"Discover Mythoswin Casino: 5 bonus stages, live games, crypto payments and VIP rewards.\">\n<meta property=\"og:url\" content=\"https://mythoswin-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Mythoswin Casino\">\n",
   "url": "mythoswin-casino.uk",
   "template": "tupchiy",
   "language_code": "en-IE",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -102,7 +102,7 @@
       "hero_image": "/uploads/701a01801753af4f2396e73f6d080808.webp",
       "seo_title": "Mythoswin Casino | Welcome Pack For UK 420% Up To £14,000",
       "seo_description": "Discover Mythoswin Casino: 5 bonus stages, live games, crypto payments and VIP rewards.",
-      "html_head": "\n<link rel=\"canonical\" href=\"https://mythoswin-casino.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Mythoswin Casino | Welcome Pack For UK 420% Up To £14,000\">\n<meta property=\"og:description\" content=\"Discover Mythoswin Casino: 5 bonus stages, live games, crypto payments and VIP rewards.\">\n<meta property=\"og:url\" content=\"https://mythoswin-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Mythoswin Casino\">\n",
+      "html_head": "<meta name=\"google-site-verification\" content=\"KKL37RsoygGsm-gKN4AxhVsGZZSfuM2hBW2FyVdsvAc\" />\n<link rel=\"canonical\" href=\"https://mythoswin-casino.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/\" hreflang=\"en-IE\">\n<link rel=\"alternate\" href=\"https://mythoswin-casino.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_IE\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Mythoswin Casino | Welcome Pack For UK 420% Up To £14,000\">\n<meta property=\"og:description\" content=\"Discover Mythoswin Casino: 5 bonus stages, live games, crypto payments and VIP rewards.\">\n<meta property=\"og:url\" content=\"https://mythoswin-casino.uk/\">\n<meta property=\"og:site_name\" content= \"Mythoswin Casino\">\n",
       "faq_title": "FAQ",
       "hero_badge": "Mythoswin Casino in UK",
       "cta_text": "Go",
@@ -367,8 +367,8 @@
       "question": "Do I need to go through verification again after successfully withdrawing funds?"
     }
   ],
-  "_generated_at": "2026-10-14T13:02:52.278Z",
+  "_generated_at": "2026-10-14T13:05:38.238Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T13:02:52.879Z",
-  "_deploy_trigger": "cj8g2"
+  "_last_deploy": "2026-10-14T13:05:38.818Z",
+  "_deploy_trigger": "19zq72"
 }
